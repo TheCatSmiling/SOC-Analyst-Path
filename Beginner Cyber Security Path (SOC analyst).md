@@ -15,7 +15,7 @@ Muchos se preguntan si necesitan saber ingles para comenzar en Cyber y la respue
 
 # Channels
 
-### YT
+## YT
 
 - [IppSec - YouTube](https://www.youtube.com/@ippsec)
 - [s4vitar - YouTube](https://www.youtube.com/@s4vitar)
@@ -23,7 +23,7 @@ Muchos se preguntan si necesitan saber ingles para comenzar en Cyber y la respue
 - [The Cyber Mentor - YouTube](https://www.youtube.com/@TCMSecurityAcademy)
 - [John Hammond - YouTube](https://www.youtube.com/@_JohnHammond)
 
-### Twich
+## Twich
 
 - [0xTib3rius - Twitch](https://www.twitch.tv/0xtib3rius)
 - [OffSecOfficial - Twitch](https://www.twitch.tv/offsecofficial)
@@ -31,7 +31,7 @@ Muchos se preguntan si necesitan saber ingles para comenzar en Cyber y la respue
 
 # THM
 
-### General
+## General
 
 - [TryHackMe | Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe)
 - [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
@@ -42,24 +42,24 @@ Muchos se preguntan si necesitan saber ingles para comenzar en Cyber y la respue
 - [TryHackMe | Network Fundamentals](https://tryhackme.com/module/network-fundamentals)
 - [TryHackMe | Hacktivities](https://tryhackme.com/hacktivities?tab=search&page=1&free=free&order=most-popular&difficulty=all&type=all)
 
-### SIEMs
+## SIEMs
 
 - [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 - 
-### OSINT
+## OSINT
 
 - [TryHackMe | Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
 - [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
-### Linux
+## Linux
 
 - [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-### Web
+## Web
 
 - [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 - [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 
-### Tools
+## Tools
 - [TryHackMe | Brute Force Heroes](https://tryhackme.com/room/bruteforceheroes)
 - 
 
