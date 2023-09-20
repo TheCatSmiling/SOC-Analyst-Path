@@ -30,7 +30,7 @@ Esto lleva consigo ciertas consideraciones que algunos podrían encontrar como d
 
 Debes conocer al menos de forma básica los siguientes conceptos, al menos de forma teórica, muchos de estos aparecen en entrevistas de trabajo de niveles junior hasta senior, y el saber responder de forma correcta a dichas preguntas puede ser el parteaguas para obtener una posición.
 
-Una búsqueda rápida en Google te brindara la información básica sobre los siguientes conceptos(para más información visita el canal de YT [Battle Codes - YouTube](https://www.youtube.com/@BattleCodes) )
+Una búsqueda rápida en Google te brindara la información básica sobre los siguientes conceptos(para más información visita el canal de YT [Battle Codes - YouTube](https://www.youtube.com/@BattleCodes)
 
 - SIEMs
 - MSSP
@@ -76,6 +76,7 @@ Una búsqueda rápida en Google te brindara la información básica sobre los si
 ### SIEMs
 
 - [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
+- [Splunk Boss of the SOC](https://bots.splunk.com/login?redirect=/)
 
 ### OSINT
 
