@@ -64,6 +64,12 @@ Una búsqueda rápida en Google te brindara la información básica sobre los si
 
 ## Topics
 
+### Azure
+
+- [Exam SC-400: Administering Information Protection and Compliance in Microsoft 365 - Certifications | Microsoft Learn](https://learn.microsoft.com/es-es/credentials/certifications/exams/sc-400/)
+- [Exam SC-200: Microsoft Security Operations Analyst - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-200/)
+- [Exam AZ-900: Microsoft Azure Fundamentals - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/)
+
 ### General
 
 - [TryHackMe | Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe)
