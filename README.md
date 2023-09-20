@@ -44,12 +44,13 @@ Una búsqueda rápida en Google te brindara la información básica sobre los si
 - Cloud Technologies (Azure, AWS, GCP, Ali Cloud)
 - GitHub
 - Windows event IDs
-- Windows login IDs
+- Windows login types
 
 ## Channels
 
 ### YT
 
+- [Battle Codes - YouTube](https://www.youtube.com/@BattleCodes)
 - [IppSec - YouTube](https://www.youtube.com/@ippsec)
 - [s4vitar - YouTube](https://www.youtube.com/@s4vitar)
 - [OffSec - YouTube](https://www.youtube.com/@OffSecTraining)
